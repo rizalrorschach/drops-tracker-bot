@@ -21,7 +21,7 @@ A Telegram bot to track airdrop progress and manage airdrop data.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/drops-tracker-bot.git
+   git clone https://github.com/rizalrorschach/drops-tracker-bot
    cd drops-tracker-bot
    ```
 
